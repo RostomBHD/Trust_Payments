@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8sPnkv9KLzvC8gSltUAEyDBPpw1aelOdREkAOmyx1Iuul/1jQPFXcPikbXYzWowsQy2GoXl50eHC8jF9TdDHTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\APH-SAP\\source\\repos\\TrustPayments_webview\\TrustPayments_webview\\TrustPayments_webview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\APH-SAP\\.nuget\\packages\\microsoft.web.webview2\\1.0.2210.55\\microsoft.web.webview2.1.0.2210.55.nupkg.sha512"
+  ],
+  "logs": []
+}
